@@ -4,3 +4,4 @@ This simple project demonstrates how to use the FOVE Unity plugin. It includes o
 ## Requirements
 * Unity 5.4.5f1 or newer
 * FOVE VR 0.12.1 or newer
+
